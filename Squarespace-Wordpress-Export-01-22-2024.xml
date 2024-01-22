@@ -1,0 +1,5639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Washy washy</title>
+    <link>https://papaya-sepia-f665.squarespace.com</link>
+    <pubDate>Sun, 10 Sep 2023 11:33:26 +0000</pubDate>
+    <description />
+    <language>en-GB</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>2085069137</wp:author_id>
+      <wp:author_login>karimeldyarbi@gmail.com</wp:author_login>
+      <wp:author_email>karimeldyarbi@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[SyncX .]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[SyncX]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[.]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 10 Sep 2023 17:35:09 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="64fda98d00e81d138c70c6b1">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="64fda98d00e81d138c70c6b5"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 6.0
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;solid&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-64fda98d00e81d138c70c6b5);"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fda98d00e81d138c70c6b4 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(2,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fda98d00e81d138c70c6b4 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fda98d00e81d138c70c6b4 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(11,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-25dc6a15f61d6e4b0b7b {
+    grid-area: 1/2/3/10;
+    z-index: 2;
+  }
+
+  .fe-block-25dc6a15f61d6e4b0b7b .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-25dc6a15f61d6e4b0b7b .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-25dc6a15f61d6e4b0b7b {
+      grid-area: 6/6/12/22;
+      z-index: 2;
+    }
+
+    .fe-block-25dc6a15f61d6e4b0b7b .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-25dc6a15f61d6e4b0b7b .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fda98d00e81d138c70c6b4"><div class="fe-block fe-block-25dc6a15f61d6e4b0b7b"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-25dc6a15f61d6e4b0b7b"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;">We bring dog grooming to your doorstep!</h1></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 6px;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+    
+  "
+>
+  <style>
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"] {
+      padding-bottom: var(--divider-height);
+      z-index: var(--z-index);
+    }
+
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"] .background-pause-button {
+      bottom: calc(14px + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"] .section-divider-block {
+      height: var(--divider-height);
+    }
+  </style>
+  
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"] {
+      padding-bottom: 6vw;
+    }
+    .has-section-divider[data-section-id="64fda98d00e81d138c70c6b5"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 6vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-64fda98d00e81d138c70c6b5"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black-bold'
+  
+  data-section-id="64fda98d00e81d138c70c6e1"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fda98d00e81d138c70c6e0 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(33,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fda98d00e81d138c70c6e0 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fda98d00e81d138c70c6e0 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(20,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-e5fc23fc6ce55dd4c454 {
+    grid-area: 3/2/8/10;
+    z-index: 1;
+  }
+
+  .fe-block-e5fc23fc6ce55dd4c454 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-e5fc23fc6ce55dd4c454 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e5fc23fc6ce55dd4c454 {
+      grid-area: 2/5/6/23;
+      z-index: 2;
+    }
+
+    .fe-block-e5fc23fc6ce55dd4c454 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-e5fc23fc6ce55dd4c454 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2a5b8f9ca21c083bef5c {
+    grid-area: 10/3/12/9;
+    z-index: 15;
+  }
+
+  .fe-block-2a5b8f9ca21c083bef5c .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2a5b8f9ca21c083bef5c .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2a5b8f9ca21c083bef5c {
+      grid-area: 8/7/10/13;
+      z-index: 6;
+    }
+
+    .fe-block-2a5b8f9ca21c083bef5c .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2a5b8f9ca21c083bef5c .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2a9b12847bf8a7e63970 {
+    grid-area: 16/2/22/10;
+    z-index: 16;
+  }
+
+  .fe-block-2a9b12847bf8a7e63970 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2a9b12847bf8a7e63970 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2a9b12847bf8a7e63970 {
+      grid-area: 8/14/10/23;
+      z-index: 6;
+    }
+
+    .fe-block-2a9b12847bf8a7e63970 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2a9b12847bf8a7e63970 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-c239492bb9e563b5da90 {
+    grid-area: 14/3/18/9;
+    z-index: 12;
+  }
+
+  .fe-block-c239492bb9e563b5da90 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c239492bb9e563b5da90 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c239492bb9e563b5da90 {
+      grid-area: 11/7/15/13;
+      z-index: 5;
+    }
+
+    .fe-block-c239492bb9e563b5da90 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c239492bb9e563b5da90 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-0ae66a430da57c413ff6 {
+    grid-area: 22/3/28/9;
+    z-index: 13;
+  }
+
+  .fe-block-0ae66a430da57c413ff6 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0ae66a430da57c413ff6 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0ae66a430da57c413ff6 {
+      grid-area: 11/15/15/21;
+      z-index: 5;
+    }
+
+    .fe-block-0ae66a430da57c413ff6 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0ae66a430da57c413ff6 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-88dde20830ff8efa8d46 {
+    grid-area: 28/4/30/8;
+    z-index: 10;
+  }
+
+  .fe-block-88dde20830ff8efa8d46 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-88dde20830ff8efa8d46 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-88dde20830ff8efa8d46 {
+      grid-area: 18/16/20/20;
+      z-index: 4;
+    }
+
+    .fe-block-88dde20830ff8efa8d46 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-88dde20830ff8efa8d46 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-ac654e7d08f802ec9068 {
+    grid-area: 30/3/34/9;
+    z-index: 5;
+  }
+
+  .fe-block-ac654e7d08f802ec9068 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ac654e7d08f802ec9068 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ac654e7d08f802ec9068 {
+      grid-area: 16/7/20/13;
+      z-index: 3;
+    }
+
+    .fe-block-ac654e7d08f802ec9068 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-ac654e7d08f802ec9068 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fda98d00e81d138c70c6e0"><div class="fe-block fe-block-e5fc23fc6ce55dd4c454"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-e5fc23fc6ce55dd4c454"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">Our Mobile Dog Grooming Services</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-2a5b8f9ca21c083bef5c"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2a5b8f9ca21c083bef5c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><p class="" style="white-space:pre-wrap;"><strong>Wash &amp; Go</strong></p></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-2a9b12847bf8a7e63970"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2a9b12847bf8a7e63970"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><p class="" style="white-space:pre-wrap;"><strong>Washywashy luxury</strong></p></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-c239492bb9e563b5da90"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c239492bb9e563b5da90"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Full body message with luxury shampoo &amp; conditioner and warm blow dry with spritz luxury perfume</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-0ae66a430da57c413ff6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-0ae66a430da57c413ff6"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">Indulge your beloved pet with our advanced dog grooming service, where we provide a full body massage with luxury shampoo &amp; conditioner and warm blow dry with spritz of luxury perfume. Plus nail clipping, ear cleaning, teeth cleaning, deshedding, pads &amp; paw cleaning</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-88dde20830ff8efa8d46"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-88dde20830ff8efa8d46"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA%3D%3D"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Our instagram
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-ac654e7d08f802ec9068"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-ac654e7d08f802ec9068"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Disclaimer: prices depends on dog breed, size and other factors. To book call or text 07493319069</strong></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="64fda98d00e81d138c70c6ed"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fda98d00e81d138c70c6ec {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(20,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fda98d00e81d138c70c6ec {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fda98d00e81d138c70c6ec {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-0caa6dc1b13af4c4ad6e {
+    grid-area: 1/1/17/11;
+    z-index: 0;
+  }
+
+  .fe-block-0caa6dc1b13af4c4ad6e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-0caa6dc1b13af4c4ad6e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0caa6dc1b13af4c4ad6e {
+      grid-area: 1/1/12/27;
+      z-index: 0;
+    }
+
+    .fe-block-0caa6dc1b13af4c4ad6e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-0caa6dc1b13af4c4ad6e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-65e54c0677a987e3cf92 {
+    grid-area: 3/2/19/10;
+    z-index: 1;
+  }
+
+  .fe-block-65e54c0677a987e3cf92 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-65e54c0677a987e3cf92 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-65e54c0677a987e3cf92 {
+      grid-area: 5/7/19/21;
+      z-index: 1;
+    }
+
+    .fe-block-65e54c0677a987e3cf92 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-65e54c0677a987e3cf92 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fda98d00e81d138c70c6ec"><div class="fe-block fe-block-0caa6dc1b13af4c4ad6e"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="41.37931034482759" data-block-type="5" id="block-0caa6dc1b13af4c4ad6e"><div class="sqs-block-content"><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 41.37931%"></div></div></div></div></div><div class="fe-block fe-block-65e54c0677a987e3cf92"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:20.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:20.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:20.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:20.0&#125;&#125;" id="block-65e54c0677a987e3cf92"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;">We're all about pampering your furry friend</h2><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Share the love for your dog with Washy washy. Washy washy will make your pup feel like a superstar. Whether it's a full groom or just a bath, we've got you covered. With our mobile dog groomer trailer, we bring the spa experience straight to your doorstep. No more stressful trips to the groomers, just convenience and comfort for your beloved pet.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/">TREAT YOUR DOG NOW</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-65e54c0677a987e3cf92 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 3% 7% 3% 7%;
+        border-radius: 20px 20px 20px 20px;
+
+        
+
+        
+          
+            
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      user-items-list-section
+      full-bleed-section
+    
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    
+      
+    
+    
+    black'
+  
+  data-section-id="64fda98d00e81d138c70c6fa"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageFocalPoint&quot;: {
+    &quot;x&quot;: 0.5,
+    &quot;y&quot;: 0.5
+  },
+  &quot;imageOverlayOpacity&quot;: 0.3,
+  &quot;backgroundColor&quot;: &quot;white&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation=""
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div
+  class="user-items-list"
+  style="
+    min-height: 100px;
+    padding-top: 6.6vmax;
+    padding-bottom: 6.6vmax;
+    "
+  data-card-theme=""
+  data-section-id="user-items-list"
+  data-section-title-enabled="true"
+  data-space-below-section-title-value="40"
+  data-space-below-section-title-unit="px"
+  data-layout-width="full"
+>
+  
+    
+    <div class="list-section-title"
+      id="64fda98d00e81d138c70c6fa"
+      style= "padding-bottom: 40px;"
+      data-section-title-alignment="center"
+    >
+      <p class="" style="white-space:pre-wrap;">We are dog groomers based in London, offering the convenience of a mobile dog groomer trailer that comes straight to your house. Follow us on our socials!</p>
+    </div>
+  
+
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .user-items-list-item-container[data-section-id="64fda98d00e81d138c70c6fa"] .list-item-content__title {
+    font-size: 2.5rem;
+  }
+  .user-items-list-item-container[data-section-id="64fda98d00e81d138c70c6fa"] .list-item-content__description {
+    font-size: 1rem;
+  }
+  .user-items-list-item-container[data-section-id="64fda98d00e81d138c70c6fa"] .list-item-content__button {
+    font-size: 1rem;
+  }
+
+  @supports (--test-custom-property: true) {
+    .user-items-list-item-container[data-section-id="64fda98d00e81d138c70c6fa"] {
+      --title-font-size-value: 2.5;
+      --body-font-size-value: 1;
+      --button-font-size-value: 1;
+    }
+  }
+</style>
+
+
+<div
+  class="
+    user-items-list-item-container
+    user-items-list-carousel
+  "
+  data-controller="UserItemsListCarousel"
+  data-max-columns="5"
+  data-show-adjacent-slides="false"
+  data-space-between-slides-value="20"
+  data-space-between-slides-unit="px"
+  data-media-aspect-ratio="1:1"
+  data-is-infinite-enabled="false"
+  data-navigation-controls="none"
+  data-navigation-placement="center"
+  data-navigation-alignment="center"
+  data-alignment-vertical="top"
+  data-section-id="64fda98d00e81d138c70c6fa"
+  data-current-context="{
+  &quot;userItems&quot;: [ {
+    &quot;title&quot;: &quot;Cutie happy (small puppy)&quot;,
+    &quot;description&quot;: null,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;&quot;
+    },
+    &quot;imageId&quot;: &quot;64fdf0d3b48a5e6f728c40bc&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;64fdf0d3b48a5e6f728c40bc&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1694363859654,
+      &quot;updatedOn&quot;: 1694363859713,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1694363859654,
+      &quot;authorId&quot;: &quot;64fda9098436697c46449b3d&quot;,
+      &quot;systemDataId&quot;: &quot;7f5db63e-84db-4604-9679-9262798fee48&quot;,
+      &quot;systemDataVariants&quot;: &quot;640x1023,100w,300w,500w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;dog two.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;a9aaa8&quot;,
+        &quot;topRightAverage&quot;: &quot;c8c8c6&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;0850a6&quot;,
+        &quot;bottomRightAverage&quot;: &quot;97949a&quot;,
+        &quot;centerAverage&quot;: &quot;67584b&quot;,
+        &quot;suggestedBgColor&quot;: &quot;9f9fa1&quot;
+      },
+      &quot;urlId&quot;: &quot;ohsasxvk5w1e7c8pqpelyop04zqjty&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;64fda9098436697c46449b3d&quot;,
+        &quot;displayName&quot;: &quot;SyncX .&quot;,
+        &quot;firstName&quot;: &quot;SyncX&quot;,
+        &quot;lastName&quot;: &quot;.&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/7f5db63e-84db-4604-9679-9262798fee48/dog+two.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;640x1023&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;lovely Tilly (small dog)&quot;,
+    &quot;description&quot;: null,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;&quot;,
+      &quot;buttonLink&quot;: &quot;&quot;
+    },
+    &quot;imageId&quot;: &quot;64fdf320f3d0b543e4491534&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;64fdf320f3d0b543e4491534&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1694364448793,
+      &quot;updatedOn&quot;: 1694364448873,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1694364448793,
+      &quot;authorId&quot;: &quot;64fda9098436697c46449b3d&quot;,
+      &quot;systemDataId&quot;: &quot;b2c49a94-ce1c-4b44-9a09-4ae1011604df&quot;,
+      &quot;systemDataVariants&quot;: &quot;355x569,100w,300w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;Screenshot_20230910_174626_Instagram[100].jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;aaaea9&quot;,
+        &quot;topRightAverage&quot;: &quot;b3b8ba&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;8c9598&quot;,
+        &quot;bottomRightAverage&quot;: &quot;275f99&quot;,
+        &quot;centerAverage&quot;: &quot;ddc398&quot;,
+        &quot;suggestedBgColor&quot;: &quot;aab3ae&quot;
+      },
+      &quot;urlId&quot;: &quot;ho7en6iuxfcm23xxddkownm48q4udb&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;64fda9098436697c46449b3d&quot;,
+        &quot;displayName&quot;: &quot;SyncX .&quot;,
+        &quot;firstName&quot;: &quot;SyncX&quot;,
+        &quot;lastName&quot;: &quot;.&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/b2c49a94-ce1c-4b44-9a09-4ae1011604df/Screenshot_20230910_174626_Instagram%5B100%5D.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;355x569&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Funny Rico (medium dog)&quot;,
+    &quot;description&quot;: null,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Click Here&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;64fdfb85a42f975f161e9db2&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;64fdfb85a42f975f161e9db2&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1694366597375,
+      &quot;updatedOn&quot;: 1694366597440,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1694366597375,
+      &quot;authorId&quot;: &quot;64fda9098436697c46449b3d&quot;,
+      &quot;systemDataId&quot;: &quot;86d81203-df81-40de-a436-69b40185f976&quot;,
+      &quot;systemDataVariants&quot;: &quot;1284x2256,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;image0[105].jpeg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;b8b7b7&quot;,
+        &quot;topRightAverage&quot;: &quot;aca9a4&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;cfcac5&quot;,
+        &quot;bottomRightAverage&quot;: &quot;717680&quot;,
+        &quot;centerAverage&quot;: &quot;6d5246&quot;,
+        &quot;suggestedBgColor&quot;: &quot;8e857f&quot;
+      },
+      &quot;urlId&quot;: &quot;yssiwk7ccm1j81zpxfgxxx2dcxjlbd&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;64fda9098436697c46449b3d&quot;,
+        &quot;displayName&quot;: &quot;SyncX .&quot;,
+        &quot;firstName&quot;: &quot;SyncX&quot;,
+        &quot;lastName&quot;: &quot;.&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/86d81203-df81-40de-a436-69b40185f976/image0%5B105%5D.jpeg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;1284x2256&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Amazing Buster (medium dog)&quot;,
+    &quot;description&quot;: null,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;&quot;
+    },
+    &quot;imageId&quot;: &quot;64fdf1c8379ad609bd366b33&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;64fdf1c8379ad609bd366b33&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1694364104987,
+      &quot;updatedOn&quot;: 1694364105038,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1694364104987,
+      &quot;authorId&quot;: &quot;64fda9098436697c46449b3d&quot;,
+      &quot;systemDataId&quot;: &quot;32066751-a713-4271-85af-b471f9aa18ff&quot;,
+      &quot;systemDataVariants&quot;: &quot;1068x1321,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;3.jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;757574&quot;,
+        &quot;topRightAverage&quot;: &quot;92938d&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;aaa598&quot;,
+        &quot;bottomRightAverage&quot;: &quot;616062&quot;,
+        &quot;centerAverage&quot;: &quot;4e4344&quot;,
+        &quot;suggestedBgColor&quot;: &quot;060604&quot;
+      },
+      &quot;urlId&quot;: &quot;ebgkp9bl6tbm74z8wt9eranzz835ka&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;64fda9098436697c46449b3d&quot;,
+        &quot;displayName&quot;: &quot;SyncX .&quot;,
+        &quot;firstName&quot;: &quot;SyncX&quot;,
+        &quot;lastName&quot;: &quot;.&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/32066751-a713-4271-85af-b471f9aa18ff/3.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;1068x1321&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Beautiful Koda (large dog)&quot;,
+    &quot;description&quot;: null,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;64fdf4b82d79333e831d1e05&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;64fdf4b82d79333e831d1e05&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1694364856994,
+      &quot;updatedOn&quot;: 1694364857044,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1694364856994,
+      &quot;authorId&quot;: &quot;64fda9098436697c46449b3d&quot;,
+      &quot;systemDataId&quot;: &quot;bd8bb01b-e5ba-4818-9fff-e49fc70761ad&quot;,
+      &quot;systemDataVariants&quot;: &quot;995x1587,100w,300w,500w,750w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+      &quot;filename&quot;: &quot;Screenshot_20230910_175255_Instagram[101].jpg&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;929491&quot;,
+        &quot;topRightAverage&quot;: &quot;babbbc&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;a0a5ad&quot;,
+        &quot;bottomRightAverage&quot;: &quot;878384&quot;,
+        &quot;centerAverage&quot;: &quot;827167&quot;,
+        &quot;suggestedBgColor&quot;: &quot;656764&quot;
+      },
+      &quot;urlId&quot;: &quot;v364u2jx9823zaq3rmwl45hnfdd3x7&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;64fda9098436697c46449b3d&quot;,
+        &quot;displayName&quot;: &quot;SyncX .&quot;,
+        &quot;firstName&quot;: &quot;SyncX&quot;,
+        &quot;lastName&quot;: &quot;.&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/bd8bb01b-e5ba-4818-9fff-e49fc70761ad/Screenshot_20230910_175255_Instagram%5B101%5D.jpg&quot;,
+      &quot;contentType&quot;: &quot;image/jpeg&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;995x1587&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  } ],
+  &quot;styles&quot;: {
+    &quot;imageFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5
+    },
+    &quot;imageOverlayOpacity&quot;: 0.3,
+    &quot;backgroundColor&quot;: &quot;white&quot;,
+    &quot;sectionTheme&quot;: &quot;black&quot;,
+    &quot;imageEffect&quot;: &quot;none&quot;,
+    &quot;backgroundMode&quot;: &quot;image&quot;,
+    &quot;backgroundImage&quot;: null
+  },
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageFocalPoint&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;options&quot;: {
+    &quot;maxColumns&quot;: 5,
+    &quot;isCardEnabled&quot;: false,
+    &quot;isMediaEnabled&quot;: true,
+    &quot;isTitleEnabled&quot;: true,
+    &quot;isBodyEnabled&quot;: true,
+    &quot;isButtonEnabled&quot;: true,
+    &quot;isShowAdjacentSlides&quot;: false,
+    &quot;isInfiniteEnabled&quot;: false,
+    &quot;isAutoplayEnabled&quot;: false,
+    &quot;slideDurationMs&quot;: 1000,
+    &quot;mediaAspectRatio&quot;: &quot;1:1&quot;,
+    &quot;layoutWidth&quot;: &quot;full&quot;,
+    &quot;mediaWidth&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;mediaAlignment&quot;: &quot;left&quot;,
+    &quot;contentWidth&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;titleAlignment&quot;: &quot;left&quot;,
+    &quot;bodyAlignment&quot;: &quot;left&quot;,
+    &quot;buttonAlignment&quot;: &quot;left&quot;,
+    &quot;titlePlacement&quot;: &quot;center&quot;,
+    &quot;bodyPlacement&quot;: &quot;center&quot;,
+    &quot;buttonPlacement&quot;: &quot;center&quot;,
+    &quot;cardVerticalAlignment&quot;: &quot;top&quot;,
+    &quot;contentOrder&quot;: &quot;media-first&quot;,
+    &quot;titleFontSize&quot;: &quot;heading-2&quot;,
+    &quot;bodyFontSize&quot;: &quot;paragraph-2&quot;,
+    &quot;buttonFontSize&quot;: &quot;button-medium&quot;,
+    &quot;customOptions&quot;: {
+      &quot;customTitleFontSize&quot;: {
+        &quot;value&quot;: 2.5,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customBodyFontSize&quot;: {
+        &quot;value&quot;: 1,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customButtonFontSize&quot;: {
+        &quot;value&quot;: 1,
+        &quot;unit&quot;: &quot;rem&quot;
+      }
+    },
+    &quot;verticalPaddingTop&quot;: {
+      &quot;value&quot;: 6.6,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;verticalPaddingBottom&quot;: {
+      &quot;value&quot;: 6.6,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;spaceBetweenSlides&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBetweenContentAndMedia&quot;: {
+      &quot;value&quot;: 10,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBelowTitle&quot;: {
+      &quot;value&quot;: 10,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBelowBody&quot;: {
+      &quot;value&quot;: 10,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingTop&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingRight&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingBottom&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingLeft&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;navigationOffset&quot;: {
+      &quot;value&quot;: 5,
+      &quot;unit&quot;: &quot;vw&quot;
+    },
+    &quot;navigationControls&quot;: &quot;none&quot;,
+    &quot;navigationPlacement&quot;: &quot;center&quot;,
+    &quot;navigationAlignment&quot;: &quot;center&quot;,
+    &quot;spaceAboveNavigation&quot;: {
+      &quot;value&quot;: 30,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;progressIndicators&quot;: &quot;bars&quot;
+  },
+  &quot;layout&quot;: &quot;carousel&quot;,
+  &quot;isSectionTitleEnabled&quot;: true,
+  &quot;sectionTitle&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;We are dog groomers based in London, offering the convenience of a mobile dog groomer trailer that comes straight to your house. Follow us on our socials!&lt;\/p&gt;&quot;,
+  &quot;spaceBelowSectionTitle&quot;: {
+    &quot;value&quot;: 40,
+    &quot;unit&quot;: &quot;px&quot;
+  },
+  &quot;sectionTitleAlignment&quot;: &quot;center&quot;,
+  &quot;isSectionButtonEnabled&quot;: true,
+  &quot;sectionButton&quot;: {
+    &quot;buttonText&quot;: &quot;Instagram&quot;,
+    &quot;buttonLink&quot;: &quot;https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA%3D%3D&quot;,
+    &quot;buttonNewWindow&quot;: false
+  },
+  &quot;sectionButtonSize&quot;: &quot;medium&quot;,
+  &quot;sectionButtonAlignment&quot;: &quot;center&quot;,
+  &quot;spaceAboveSectionButton&quot;: {
+    &quot;value&quot;: 40,
+    &quot;unit&quot;: &quot;px&quot;
+  }
+}"
+  data-media-alignment="left"
+  data-title-alignment="left"
+  data-body-alignment="left"
+  data-button-alignment="left"
+  data-title-placement="center"
+  data-body-placement="center"
+  data-button-placement="center"
+  data-layout-width="full"
+  data-title-font-unit="rem"
+  data-description-font-unit="rem"
+  data-button-font-unit="rem"
+  data-is-media-enabled="true"
+  data-is-card-enabled="false"
+  data-media-width-value="100"
+  data-media-width-unit="%"
+  data-content-order="media-first"
+  data-space-between-columns=""
+  data-vertical-padding-top-value="6.6"
+  data-vertical-padding-bottom-value="6.6"
+  data-vertical-padding-top-unit="vmax"
+  data-vertical-padding-bottom-unit="vmax"
+>
+  <div
+    class="user-items-list-carousel__gutter"
+    role="region"
+    aria-label=""
+  >
+    <div class="user-items-list-carousel__slideshow-holder">
+
+      <div class="user-items-list-carousel__slides-revealer">
+        <ul class="user-items-list-carousel__slides" style="grid-gap: 20px;">
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 10px;
+                        width: 100%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="1:1"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/7f5db63e-84db-4604-9679-9262798fee48/dog+two.jpg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/7f5db63e-84db-4604-9679-9262798fee48/dog+two.jpg" data-image-dimensions="640x1023" data-image-focal-point="0.5,0.5" alt="dog two.jpg" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="cover"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 100%;"
+                      >Cutie happy (small puppy)</h2>
+                    
+
+                    
+                        <div class="list-item-content__description list-item-content--hidden
+                          
+                          "
+                          style="
+                            margin-top: 10px;
+                            max-width: 100%;
+                          "
+                        ></div>
+                    
+
+                  </div>
+                
+
+                
+                  <div class="list-item-content__button-wrapper">
+                    <div class="list-item-content__button-container list-item-content--hidden"
+                      style="
+                        margin-top: 10px;
+                        max-width: 100%;
+                      "
+                      data-animation-role="button"
+                    >
+                      <a class="
+                          list-item-content__button
+                          sqs-block-button-element
+                          
+                          
+                            sqs-block-button-element--medium
+                            sqs-button-element--primary
+                          
+                        "
+                        href=""
+                        
+                      >
+                        
+                      </a>
+                    </div>
+                  </div>
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 10px;
+                        width: 100%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="1:1"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/b2c49a94-ce1c-4b44-9a09-4ae1011604df/Screenshot_20230910_174626_Instagram%5B100%5D.jpg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/b2c49a94-ce1c-4b44-9a09-4ae1011604df/Screenshot_20230910_174626_Instagram%5B100%5D.jpg" data-image-dimensions="355x569" data-image-focal-point="0.5,0.5" alt="Screenshot_20230910_174626_Instagram[100].jpg" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="cover"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 100%;"
+                      >lovely Tilly (small dog)</h2>
+                    
+
+                    
+                        <div class="list-item-content__description list-item-content--hidden
+                          
+                          "
+                          style="
+                            margin-top: 10px;
+                            max-width: 100%;
+                          "
+                        ></div>
+                    
+
+                  </div>
+                
+
+                
+                  <div class="list-item-content__button-wrapper">
+                    <div class="list-item-content__button-container list-item-content--hidden"
+                      style="
+                        margin-top: 10px;
+                        max-width: 100%;
+                      "
+                      data-animation-role="button"
+                    >
+                      <a class="
+                          list-item-content__button
+                          sqs-block-button-element
+                          
+                          
+                            sqs-block-button-element--medium
+                            sqs-button-element--primary
+                          
+                        "
+                        href=""
+                        
+                      >
+                        
+                      </a>
+                    </div>
+                  </div>
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 10px;
+                        width: 100%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="1:1"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/86d81203-df81-40de-a436-69b40185f976/image0%5B105%5D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/86d81203-df81-40de-a436-69b40185f976/image0%5B105%5D.jpeg" data-image-dimensions="1284x2256" data-image-focal-point="0.5,0.5" alt="image0[105].jpeg" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="cover"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 100%;"
+                      >Funny Rico (medium dog)</h2>
+                    
+
+                    
+                        <div class="list-item-content__description list-item-content--hidden
+                          
+                          "
+                          style="
+                            margin-top: 10px;
+                            max-width: 100%;
+                          "
+                        ></div>
+                    
+
+                  </div>
+                
+
+                
+                  <div class="list-item-content__button-wrapper">
+                    <div class="list-item-content__button-container"
+                      style="
+                        margin-top: 10px;
+                        max-width: 100%;
+                      "
+                      data-animation-role="button"
+                    >
+                      <a class="
+                          list-item-content__button
+                          sqs-block-button-element
+                          
+                          
+                            sqs-block-button-element--medium
+                            sqs-button-element--primary
+                          
+                        "
+                        href="/"
+                        
+                      >
+                        Click Here
+                      </a>
+                    </div>
+                  </div>
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 10px;
+                        width: 100%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="1:1"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/32066751-a713-4271-85af-b471f9aa18ff/3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/32066751-a713-4271-85af-b471f9aa18ff/3.jpg" data-image-dimensions="1068x1321" data-image-focal-point="0.5,0.5" alt="3.jpg" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="cover"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 100%;"
+                      >Amazing Buster (medium dog)</h2>
+                    
+
+                    
+                        <div class="list-item-content__description list-item-content--hidden
+                          
+                          "
+                          style="
+                            margin-top: 10px;
+                            max-width: 100%;
+                          "
+                        ></div>
+                    
+
+                  </div>
+                
+
+                
+                  <div class="list-item-content__button-wrapper">
+                    <div class="list-item-content__button-container list-item-content--hidden"
+                      style="
+                        margin-top: 10px;
+                        max-width: 100%;
+                      "
+                      data-animation-role="button"
+                    >
+                      <a class="
+                          list-item-content__button
+                          sqs-block-button-element
+                          
+                          
+                            sqs-block-button-element--medium
+                            sqs-button-element--primary
+                          
+                        "
+                        href=""
+                        
+                      >
+                        
+                      </a>
+                    </div>
+                  </div>
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 10px;
+                        width: 100%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="1:1"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/bd8bb01b-e5ba-4818-9fff-e49fc70761ad/Screenshot_20230910_175255_Instagram%5B101%5D.jpg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/bd8bb01b-e5ba-4818-9fff-e49fc70761ad/Screenshot_20230910_175255_Instagram%5B101%5D.jpg" data-image-dimensions="995x1587" data-image-focal-point="0.5,0.5" alt="Screenshot_20230910_175255_Instagram[101].jpg" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="cover"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 100%;"
+                      >Beautiful Koda (large dog)</h2>
+                    
+
+                    
+                        <div class="list-item-content__description list-item-content--hidden
+                          
+                          "
+                          style="
+                            margin-top: 10px;
+                            max-width: 100%;
+                          "
+                        ></div>
+                    
+
+                  </div>
+                
+
+                
+                  <div class="list-item-content__button-wrapper">
+                    <div class="list-item-content__button-container list-item-content--hidden"
+                      style="
+                        margin-top: 10px;
+                        max-width: 100%;
+                      "
+                      data-animation-role="button"
+                    >
+                      <a class="
+                          list-item-content__button
+                          sqs-block-button-element
+                          
+                          
+                            sqs-block-button-element--medium
+                            sqs-button-element--primary
+                          
+                        "
+                        href="/"
+                        
+                      >
+                        
+                      </a>
+                    </div>
+                  </div>
+                
+
+              </div>
+            </li>
+          
+        </ul>
+      </div>
+
+    </div>
+
+    
+
+    <div class="mobile-arrows">
+      <button
+  class="
+    mobile-arrow-button
+    mobile-arrow-button--left
+  "
+  aria-label="
+    
+      
+    
+    
+  "
+  data-animation-role="button"
+>
+  <div class="
+    user-items-list-carousel__arrow-icon-background
+    mobile-arrow-icon-background-area
+  ">
+  </div>
+  <svg class="mobile-arrow-icon" viewBox="0 0 24 14" xmlns="http://www.w3.org/2000/svg">
+
+    
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M7.87012 13L2.00021 7L7.87012 1" stroke-width="2" fill="none"
+      />
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M22.9653 7L3.03948 7" stroke-width="2" stroke-linecap="square" fill="none"
+      />
+    
+
+    
+
+  </svg>
+</button>
+
+      <button
+  class="
+    mobile-arrow-button
+    mobile-arrow-button--right
+  "
+  aria-label="
+    
+    
+      
+    
+  "
+  data-animation-role="button"
+>
+  <div class="
+    user-items-list-carousel__arrow-icon-background
+    mobile-arrow-icon-background-area
+  ">
+  </div>
+  <svg class="mobile-arrow-icon" viewBox="0 0 24 14" xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M16.1299 1L21.9998 7L16.1299 13" stroke-width="2" fill="none"
+      />
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M1.03472 7H20.9605" stroke-width="2" stroke-linecap="square" fill="none"
+      />
+    
+
+  </svg>
+</button>
+
+    </div>
+
+  </div>
+
+  
+
+</div>
+
+  
+
+  
+    <div class="list-section-button-container"
+      style= "margin-top: 40px;"
+      data-section-button-alignment="center"
+      data-button-size="medium"
+      data-animation-role="button"
+    >
+      <a
+        class="
+          list-section-button
+          sqs-block-button-element
+          
+          
+            sqs-block-button-element--medium
+            sqs-button-element--primary
+          
+        "
+        href="https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA%3D%3D"
+        
+      >
+        Instagram
+      </a>
+    </div>
+    
+  
+</div>
+
+      
+      
+      
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="64fda98d00e81d138c70c70f"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fda98d00e81d138c70c70e {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fda98d00e81d138c70c70e {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fda98d00e81d138c70c70e {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(20,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-35562639f9c25f3b9b62 {
+    grid-area: 2/1/8/11;
+    z-index: 2;
+  }
+
+  .fe-block-35562639f9c25f3b9b62 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-35562639f9c25f3b9b62 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-35562639f9c25f3b9b62 {
+      grid-area: 1/14/21/27;
+      z-index: 2;
+    }
+
+    .fe-block-35562639f9c25f3b9b62 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-35562639f9c25f3b9b62 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-ab3f53766fe0835563c9 {
+    grid-area: 8/2/12/10;
+    z-index: 4;
+  }
+
+  .fe-block-ab3f53766fe0835563c9 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ab3f53766fe0835563c9 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ab3f53766fe0835563c9 {
+      grid-area: 2/2/5/12;
+      z-index: 3;
+    }
+
+    .fe-block-ab3f53766fe0835563c9 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ab3f53766fe0835563c9 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fda98d00e81d138c70c70e"><div class="fe-block fe-block-35562639f9c25f3b9b62"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="137.08891283156328" data-block-type="5" id="block-35562639f9c25f3b9b62"><div class="sqs-block-content"><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 137.08891%"></div></div></div></div></div><div class="fe-block fe-block-ab3f53766fe0835563c9"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-ab3f53766fe0835563c9"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Contact Us</h2><p class="" style="white-space:pre-wrap;"><strong>call 07466669399</strong></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/services-1</link>
+      <title>Services</title>
+      <pubDate>Sun, 10 Sep 2023 18:56:22 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="64fe0c3fb19f326c300c6e3f">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    black-bold'
+  
+  data-section-id="64fe0c3fb19f326c300c6e43"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0c3fb19f326c300c6e42 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(4,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0c3fb19f326c300c6e42 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0c3fb19f326c300c6e42 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(7,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-cd4b66a08621c1c078b5 {
+    grid-area: 1/2/5/10;
+    z-index: 0;
+  }
+
+  .fe-block-cd4b66a08621c1c078b5 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-cd4b66a08621c1c078b5 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cd4b66a08621c1c078b5 {
+      grid-area: 1/2/4/14;
+      z-index: 0;
+    }
+
+    .fe-block-cd4b66a08621c1c078b5 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-cd4b66a08621c1c078b5 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0c3fb19f326c300c6e42"><div class="fe-block fe-block-cd4b66a08621c1c078b5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-cd4b66a08621c1c078b5"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Our Services</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black-bold'
+  
+  data-section-id="64fe0c3fb19f326c300c6e46"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0c3fb19f326c300c6e45 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(21,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0c3fb19f326c300c6e45 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0c3fb19f326c300c6e45 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-c5e0421c85bf601e4cdc {
+    grid-area: 1/2/4/10;
+    z-index: 0;
+  }
+
+  .fe-block-c5e0421c85bf601e4cdc .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c5e0421c85bf601e4cdc .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c5e0421c85bf601e4cdc {
+      grid-area: 1/2/4/10;
+      z-index: 0;
+    }
+
+    .fe-block-c5e0421c85bf601e4cdc .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c5e0421c85bf601e4cdc .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-182e7840352a1c6014ff {
+    grid-area: 5/2/11/10;
+    z-index: 1;
+  }
+
+  .fe-block-182e7840352a1c6014ff .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-182e7840352a1c6014ff .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-182e7840352a1c6014ff {
+      grid-area: 4/2/15/10;
+      z-index: 1;
+    }
+
+    .fe-block-182e7840352a1c6014ff .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-182e7840352a1c6014ff .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-02ca70981f5119c8b57f {
+    grid-area: 11/2/18/10;
+    z-index: 2;
+  }
+
+  .fe-block-02ca70981f5119c8b57f .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-02ca70981f5119c8b57f .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-02ca70981f5119c8b57f {
+      grid-area: 1/15/8/26;
+      z-index: 2;
+    }
+
+    .fe-block-02ca70981f5119c8b57f .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-02ca70981f5119c8b57f .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1694362660019_178412 {
+    grid-area: 18/2/22/10;
+    z-index: 3;
+  }
+
+  .fe-block-yui_3_17_2_1_1694362660019_178412 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1694362660019_178412 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1694362660019_178412 {
+      grid-area: 10/4/13/23;
+      z-index: 3;
+    }
+
+    .fe-block-yui_3_17_2_1_1694362660019_178412 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1694362660019_178412 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0c3fb19f326c300c6e45"><div class="fe-block fe-block-c5e0421c85bf601e4cdc"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c5e0421c85bf601e4cdc"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h4 style="white-space:pre-wrap;"><strong><em>Wash &amp; Go</em></strong></h4></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-182e7840352a1c6014ff"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-182e7840352a1c6014ff"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong><em>Full body message with luxury shampoo &amp; conditioner and warm blow dry with spritz luxury perfume</em></strong></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-02ca70981f5119c8b57f"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-02ca70981f5119c8b57f"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h4 style="white-space:pre-wrap;"><strong>Washywashy luxury</strong></h4></span></div><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small"><strong>Indulge your beloved pet with our advanced dog grooming service, where we provide a full body massage with luxury shampoo &amp; conditioner and warm blow dry with spritz of luxury perfume. Plus nail clipping, ear cleaning, teeth cleaning, deshedding, pads &amp; paw cleaning</strong></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1694362660019_178412"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1694362660019_178412"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Disclaimer: prices depends on dog breed, size and other factors. To book call or text 07493319069</strong></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black-bold'
+  
+  data-section-id="64fe0f95171d037244696805"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0f95171d037244696804 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(14,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0f95171d037244696804 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0f95171d037244696804 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(23,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-2b0903228b4fe7571270 {
+    grid-area: 1/2/8/10;
+    z-index: 0;
+  }
+
+  .fe-block-2b0903228b4fe7571270 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-2b0903228b4fe7571270 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2b0903228b4fe7571270 {
+      grid-area: 1/7/7/21;
+      z-index: 0;
+    }
+
+    .fe-block-2b0903228b4fe7571270 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-2b0903228b4fe7571270 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-0bc606e7b2d530226e6d {
+    grid-area: 8/2/15/10;
+    z-index: 2;
+  }
+
+  .fe-block-0bc606e7b2d530226e6d .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0bc606e7b2d530226e6d .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0bc606e7b2d530226e6d {
+      grid-area: 8/4/24/24;
+      z-index: 2;
+    }
+
+    .fe-block-0bc606e7b2d530226e6d .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0bc606e7b2d530226e6d .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0f95171d037244696804"><div class="fe-block fe-block-2b0903228b4fe7571270"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2b0903228b4fe7571270"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="text-align:center;white-space:pre-wrap;">Example of a wash</h1><p style="text-align:center;white-space:pre-wrap;" class="">Our lovely happy getting his first puppy groom</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-0bc606e7b2d530226e6d"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&#125;,&quot;isOldBlock&quot;:false,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;nativeVideo&quot;:&quot;64fe0fa82cf5d556d07cd8fc&quot;,&quot;nativeVideoAssetId&quot;:&quot;4963985d-a30e-4b1c-b54f-e57b923fa5e4&quot;&#125;" data-block-type="32" id="block-0bc606e7b2d530226e6d"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:1.7666668%;"><div class="sqs-native-video" data-config-block-id="0bc606e7b2d530226e6d" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;64fe0fa82cf5d556d07cd8fc&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1694371752079,&quot;updatedOn&quot;:1694371952306,&quot;workflowState&quot;:1,&quot;authorId&quot;:&quot;64fda9098436697c46449b3d&quot;,&quot;systemDataId&quot;:&quot;4963985d-a30e-4b1c-b54f-e57b923fa5e4&quot;,&quot;systemDataVariants&quot;:&quot;1080:1908,360:636&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;7B744788-6726-46AB-92E6-DE7AC2E8C841.mov&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;64fda9098436697c46449b3d&quot;,&quot;displayName&quot;:&quot;SyncX .&quot;,&quot;firstName&quot;:&quot;SyncX&quot;,&quot;lastName&quot;:&quot;.&quot;,&quot;avatarUrl&quot;:&quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,&quot;bio&quot;:&quot;&quot;,&quot;avatarAssetUrl&quot;:&quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/4963985d-a30e-4b1c-b54f-e57b923fa5e4/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;64fda98631690b35a02c7d55&quot;,&quot;aspectRatio&quot;:0.5660377358490566,&quot;durationSeconds&quot;:59.933333&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/4963985d-a30e-4b1c-b54f-e57b923fa5e4/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;64fda98631690b35a02c7d55&quot;,&quot;aspectRatio&quot;:0.5660377358490566,&quot;durationSeconds&quot;:59.933333,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;ca7078e0-a4a5-3f0d-8b93-bffd3fe43436&quot;,&quot;originalSize&quot;:&quot;1080:1908&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black-bold'
+  
+  data-section-id="64fe0c3fb19f326c300c6e47"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          
+
+<div class="gallery" style="min-height: 100px;">
+  
+
+  
+
+  
+    <!-- Gallery Strips -->
+<div
+  class="gallery-strips gallery-strips--layout-strips"
+  data-controller="GalleryStrips"
+  
+  data-section-id="64fe0c3fb19f326c300c6e47"
+  data-animation="site-default"
+  data-lightbox=""
+  data-width="inset"
+  data-props='{
+  "scrollAnimation": "site-default",
+  "gutter": 20,
+  "rowHeight": 255,
+  "width": "inset",
+  "lightboxEnabled": false
+}'
+  data-show-captions="false"
+  data-test="gallery-grid-strips"
+>
+  <div class="gallery-strips-wrapper">
+    
+    <figure class="gallery-strips-item">
+      <div class="gallery-strips-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/8d6c59ee-bc3b-453c-8e9f-947159d2bff0/image0%5B105%5D.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/8d6c59ee-bc3b-453c-8e9f-947159d2bff0/image0%5B105%5D.jpeg" data-image-dimensions="1284x2256" data-image-focal-point="0.5,0.5" alt="image0[105].jpeg"  data-load="false" elementtiming="nbf-gallery-strips" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-strips-item">
+      <div class="gallery-strips-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/239f5bd9-8057-4d3d-9ead-b82bdbca49f4/Screenshot_20230910_174626_Instagram%5B100%5D.jpg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/239f5bd9-8057-4d3d-9ead-b82bdbca49f4/Screenshot_20230910_174626_Instagram%5B100%5D.jpg" data-image-dimensions="355x569" data-image-focal-point="0.5,0.5" alt="Screenshot_20230910_174626_Instagram[100].jpg"  data-load="false" elementtiming="nbf-gallery-strips" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+  </div>
+  
+</div>
+
+  
+
+  
+
+  
+
+  
+</div>
+
+        </div>
+      
+      
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>services-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Sun, 10 Sep 2023 18:33:53 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="64fdfec200e81d138c786620">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black-bold"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black-bold'
+  
+  data-section-id="64fdfec200e81d138c786624"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black-bold&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fdfec200e81d138c786623 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(38,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fdfec200e81d138c786623 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fdfec200e81d138c786623 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(27,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-da2ffafd8ef592b2047c {
+    grid-area: 1/2/15/10;
+    z-index: 0;
+  }
+
+  .fe-block-da2ffafd8ef592b2047c .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-da2ffafd8ef592b2047c .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-da2ffafd8ef592b2047c {
+      grid-area: 1/15/28/26;
+      z-index: 0;
+    }
+
+    .fe-block-da2ffafd8ef592b2047c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-da2ffafd8ef592b2047c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-58f875649a4a7f3c2210 {
+    grid-area: 15/2/39/10;
+    z-index: 2;
+  }
+
+  .fe-block-58f875649a4a7f3c2210 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-58f875649a4a7f3c2210 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-58f875649a4a7f3c2210 {
+      grid-area: 5/2/26/14;
+      z-index: 2;
+    }
+
+    .fe-block-58f875649a4a7f3c2210 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-58f875649a4a7f3c2210 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fdfec200e81d138c786623"><div class="fe-block fe-block-da2ffafd8ef592b2047c"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="111.94707630206872" data-block-type="5" id="block-da2ffafd8ef592b2047c"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fill"
+              href="https://www.instagram.com/reel/CvpGUf8IjYV/?igshid=MzRlODBiNWFlZA%3D%3D"
+              
+            >
+              
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg" data-image="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg" data-image-dimensions="1007x1330" data-image-focal-point="0.31518151815181517,0.4400550068758595" alt="our dog groomer trailer" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg" width="1007" height="1330" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 31.51815181518152% 44.00550068758595%" srcset="https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/64fda98631690b35a02c7d55/1268abda-654d-4d01-8510-3b4ee8901175/Screenshot_20230910_192539_Instagram%5B107%5D.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-da2ffafd8ef592b2047c .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-58f875649a4a7f3c2210"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-58f875649a4a7f3c2210"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;"><strong><em>We're all about pampering your furry friend</em></strong></h2><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large"><strong><em>Share the love for your dog with Washy washy. Washy washy will make your pup feel like a superstar. Whether it's a full groom or just a bath, we've got you covered. With our mobile dog groomer trailer, we bring the spa experience straight to your doorstep. No more stressful trips to the groomers, just convenience and comfort for your beloved pet.</em></strong></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://papaya-sepia-f665.squarespace.com/"><strong><em>TREAT YOUR DOG NOW</em></strong></a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><strong><em>We are dog groomers based in London, offering the convenience of a mobile dog groomer trailer that comes straight to your house. Follow us on our socials!</em></strong></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Sun, 10 Sep 2023 18:20:28 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="64fe0016f5e0cb2da9968be6">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="64fe0016f5e0cb2da9968bea"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0016f5e0cb2da9968be9 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(9,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0016f5e0cb2da9968be9 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0016f5e0cb2da9968be9 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(12,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-f6be86655b02f8af7db7 {
+    grid-area: 1/2/8/10;
+    z-index: 0;
+  }
+
+  .fe-block-f6be86655b02f8af7db7 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-f6be86655b02f8af7db7 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f6be86655b02f8af7db7 {
+      grid-area: 1/2/11/26;
+      z-index: 0;
+    }
+
+    .fe-block-f6be86655b02f8af7db7 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f6be86655b02f8af7db7 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-a15c74fbcb3303465e80 {
+    grid-area: 8/2/10/10;
+    z-index: 1;
+  }
+
+  .fe-block-a15c74fbcb3303465e80 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a15c74fbcb3303465e80 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a15c74fbcb3303465e80 {
+      grid-area: 9/2/13/18;
+      z-index: 1;
+    }
+
+    .fe-block-a15c74fbcb3303465e80 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a15c74fbcb3303465e80 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0016f5e0cb2da9968be9"><div class="fe-block fe-block-f6be86655b02f8af7db7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-f6be86655b02f8af7db7"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Contact Us</h2><p class="" style="white-space:pre-wrap;">To book an appointment, contact us via call or message using the number given below</p><p class="sqsrte-large" style="white-space:pre-wrap;"><br>(+44) 07466669399</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-a15c74fbcb3303465e80"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-a15c74fbcb3303465e80"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <style>
+    #block-a15c74fbcb3303465e80 .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://instagram.com/washywashytrailer?igshid=MzRlODBiNWFlZA==" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/profile.php?id=100094918614918" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/services</link>
+      <title>Services</title>
+      <pubDate>Sun, 10 Sep 2023 18:34:39 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="64fe0c3fd64d416843a40891">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+       has-background
+    
+    
+    light'
+  
+  data-section-id="64fe0c3fd64d416843a40895"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;64fe0c3fd64d416843a40884&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1671201368653,
+    &quot;updatedOn&quot;: 1689954052326,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1671201368653,
+    &quot;authorId&quot;: &quot;64fda9098436697c46449b3d&quot;,
+    &quot;systemDataId&quot;: &quot;1682108233198-8C16W0JBMX37BPY89M9G&quot;,
+    &quot;systemDataVariants&quot;: &quot;2011x1340,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;Light Objects 2.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.6065860283788215,
+      &quot;y&quot;: 0.600138815785739,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;efefef&quot;,
+      &quot;topRightAverage&quot;: &quot;eeeeee&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;ebebea&quot;,
+      &quot;bottomRightAverage&quot;: &quot;c2c1c1&quot;,
+      &quot;centerAverage&quot;: &quot;e4e4e4&quot;,
+      &quot;suggestedBgColor&quot;: &quot;e0e0df&quot;
+    },
+    &quot;urlId&quot;: &quot;7pufpqyqdwzj545x2xksehbclxo19r-pycz6-s8n9c&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;64fda9098436697c46449b3d&quot;,
+      &quot;displayName&quot;: &quot;SyncX .&quot;,
+      &quot;firstName&quot;: &quot;SyncX&quot;,
+      &quot;lastName&quot;: &quot;.&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/64fda90a01ed5b05abfc2dee&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2011x1340&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg" data-image-dimensions="2011x1340" data-image-focal-point="0.6065860283788215,0.600138815785739" alt="Light Objects 2.jpg" data-load="false" src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg" width="2011" height="1340" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 60.65860283788215% 60.0138815785739%" srcset="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233198-8C16W0JBMX37BPY89M9G/Light+Objects+2.jpg?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0c3fd64d416843a40894 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(4,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0c3fd64d416843a40894 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0c3fd64d416843a40894 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(7,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d4af86e54f54f0dc0b6c {
+    grid-area: 1/2/5/10;
+    z-index: 0;
+  }
+
+  .fe-block-d4af86e54f54f0dc0b6c .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-d4af86e54f54f0dc0b6c .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d4af86e54f54f0dc0b6c {
+      grid-area: 1/2/4/14;
+      z-index: 0;
+    }
+
+    .fe-block-d4af86e54f54f0dc0b6c .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-d4af86e54f54f0dc0b6c .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0c3fd64d416843a40894"><div class="fe-block fe-block-d4af86e54f54f0dc0b6c"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-d4af86e54f54f0dc0b6c"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Our Services</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="64fe0c3fd64d416843a40898"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0c3fd64d416843a40897 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(26,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0c3fd64d416843a40897 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0c3fd64d416843a40897 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(9,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-07bee8ee8e0fda28c848 {
+    grid-area: 1/2/2/10;
+    z-index: 0;
+  }
+
+  .fe-block-07bee8ee8e0fda28c848 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-07bee8ee8e0fda28c848 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-07bee8ee8e0fda28c848 {
+      grid-area: 1/2/2/10;
+      z-index: 0;
+    }
+
+    .fe-block-07bee8ee8e0fda28c848 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-07bee8ee8e0fda28c848 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-af668da43a4ad4288268 {
+    grid-area: 3/2/9/10;
+    z-index: 1;
+  }
+
+  .fe-block-af668da43a4ad4288268 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-af668da43a4ad4288268 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-af668da43a4ad4288268 {
+      grid-area: 1/10/5/18;
+      z-index: 1;
+    }
+
+    .fe-block-af668da43a4ad4288268 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-af668da43a4ad4288268 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-4ce828d770a4129788e4 {
+    grid-area: 9/2/15/10;
+    z-index: 2;
+  }
+
+  .fe-block-4ce828d770a4129788e4 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-4ce828d770a4129788e4 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4ce828d770a4129788e4 {
+      grid-area: 1/18/5/26;
+      z-index: 2;
+    }
+
+    .fe-block-4ce828d770a4129788e4 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-4ce828d770a4129788e4 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-50243c071911a627badf {
+    grid-area: 15/2/21/10;
+    z-index: 3;
+  }
+
+  .fe-block-50243c071911a627badf .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-50243c071911a627badf .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-50243c071911a627badf {
+      grid-area: 6/10/10/18;
+      z-index: 3;
+    }
+
+    .fe-block-50243c071911a627badf .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-50243c071911a627badf .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-425158b112ec5c52f8f6 {
+    grid-area: 21/2/27/10;
+    z-index: 4;
+  }
+
+  .fe-block-425158b112ec5c52f8f6 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-425158b112ec5c52f8f6 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-425158b112ec5c52f8f6 {
+      grid-area: 6/18/10/26;
+      z-index: 4;
+    }
+
+    .fe-block-425158b112ec5c52f8f6 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-425158b112ec5c52f8f6 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0c3fd64d416843a40897"><div class="fe-block fe-block-07bee8ee8e0fda28c848"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-07bee8ee8e0fda28c848"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">What we offer</h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-af668da43a4ad4288268"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-af668da43a4ad4288268"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Service 1</h4><p class="" style="white-space:pre-wrap;">What should we know about this service? Describe important details like price, value, length of service, and why it’s unique. Or use these sections to showcase key values of your services.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-4ce828d770a4129788e4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4ce828d770a4129788e4"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Service 2</h4><p class="" style="white-space:pre-wrap;">What should we know about this service? Describe important details like price, value, length of service, and why it’s unique. Or use these sections to showcase key values of your services.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-50243c071911a627badf"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-50243c071911a627badf"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Service 3</h4><p class="" style="white-space:pre-wrap;">What should we know about this service? Describe important details like price, value, length of service, and why it’s unique. Or use these sections to showcase key values of your services.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-425158b112ec5c52f8f6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-425158b112ec5c52f8f6"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">Service 4</h4><p class="" style="white-space:pre-wrap;">What should we know about this service? Describe important details like price, value, length of service, and why it’s unique. Or use these sections to showcase key values of your services.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="64fe0c3fd64d416843a40899"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          
+
+<div class="gallery" style="min-height: 100px;">
+  
+
+  
+
+  
+    <!-- Gallery Strips -->
+<div
+  class="gallery-strips gallery-strips--layout-strips"
+  data-controller="GalleryStrips"
+  
+  data-section-id="64fe0c3fd64d416843a40899"
+  data-animation="site-default"
+  data-lightbox=""
+  data-width="full"
+  data-props='{
+  "scrollAnimation": "site-default",
+  "gutter": 20,
+  "rowHeight": 300,
+  "width": "full",
+  "lightboxEnabled": false
+}'
+  data-show-captions="false"
+  data-test="gallery-grid-strips"
+>
+  <div class="gallery-strips-wrapper">
+    
+    <figure class="gallery-strips-item">
+      <div class="gallery-strips-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233226-63OYXCB3JT23XPUZVG5W/Light+Objects+1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233226-63OYXCB3JT23XPUZVG5W/Light+Objects+1.jpg" data-image-dimensions="2500x1666" data-image-focal-point="0.5,0.5" alt="Light Objects 1.jpg"  data-load="false" elementtiming="nbf-gallery-strips" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+    <figure class="gallery-strips-item">
+      <div class="gallery-strips-item-wrapper" data-animation-role="image">
+        
+        
+        
+
+        
+          
+          
+            
+          <img src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233233-1ENZKO56K3ZOUI7NWBMD/Light+Objects+3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233233-1ENZKO56K3ZOUI7NWBMD/Light+Objects+3.jpg" data-image-dimensions="1318x876" data-image-focal-point="0.5,0.5" alt="Light Objects 3.jpg"  data-load="false" elementtiming="nbf-gallery-strips" />
+          
+        
+          
+          
+        
+      </div>
+      
+    </figure>
+    
+  </div>
+  
+</div>
+
+  
+
+  
+
+  
+
+  
+</div>
+
+        </div>
+      
+      
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="64fe0c3fd64d416843a4089d"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-64fe0c3fd64d416843a4089c {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(15,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-64fe0c3fd64d416843a4089c {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-64fe0c3fd64d416843a4089c {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-548fb3ae50da4f3e3de4 {
+    grid-area: 1/2/2/10;
+    z-index: 0;
+  }
+
+  .fe-block-548fb3ae50da4f3e3de4 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-548fb3ae50da4f3e3de4 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-548fb3ae50da4f3e3de4 {
+      grid-area: 1/2/2/26;
+      z-index: 0;
+    }
+
+    .fe-block-548fb3ae50da4f3e3de4 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-548fb3ae50da4f3e3de4 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-c7b7a856f6c320061f5a {
+    grid-area: 7/2/16/9;
+    z-index: 2;
+  }
+
+  .fe-block-c7b7a856f6c320061f5a .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-c7b7a856f6c320061f5a .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c7b7a856f6c320061f5a {
+      grid-area: 4/2/12/13;
+      z-index: 2;
+    }
+
+    .fe-block-c7b7a856f6c320061f5a .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-c7b7a856f6c320061f5a .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-d6a35d1926d1aa305ac5 {
+    grid-area: 2/2/9/10;
+    z-index: 1;
+  }
+
+  .fe-block-d6a35d1926d1aa305ac5 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-d6a35d1926d1aa305ac5 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d6a35d1926d1aa305ac5 {
+      grid-area: 2/10/15/26;
+      z-index: 1;
+    }
+
+    .fe-block-d6a35d1926d1aa305ac5 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-d6a35d1926d1aa305ac5 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-64fe0c3fd64d416843a4089c"><div class="fe-block fe-block-548fb3ae50da4f3e3de4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-548fb3ae50da4f3e3de4"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="white-space:pre-wrap;">The Results</h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-c7b7a856f6c320061f5a"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-c7b7a856f6c320061f5a"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;">“Whatever it is, the way you tell your story online can make all the difference.”</h3><p class="" style="white-space:pre-wrap;">— Quote source</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-c7b7a856f6c320061f5a {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 6% 6% 6% 6%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-d6a35d1926d1aa305ac5"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-d6a35d1926d1aa305ac5"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg" data-image-dimensions="1838x1379" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg" width="1838" height="1379" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6442ef4842b7395876978966/1682108233244-HEK514A3EFVWYLAH9PNP/Sleek+Objects+2.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-d6a35d1926d1aa305ac5 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>services</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
